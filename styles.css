@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  background-color: #f0f0f0;
+}
+
+.gradient-box {
+  width: 500px;
+  height: 500px;
+  background: linear-gradient(to bottom, #b0ce56, #75c3d8);
+}
